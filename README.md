@@ -1,7 +1,9 @@
 # Learn-Github
+
 This is a practice repository for learning github concepts
 
 ## Areas to cover
+
 - [x] Markdown
 - [ ] Github Issues and Projects
 - [ ] Github Actions
