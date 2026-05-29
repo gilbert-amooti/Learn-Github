@@ -5,7 +5,7 @@ This is a practice repository for learning github concepts
 ## Areas to cover
 
 - [x] Markdown
-- [ ] Github Issues and Projects
+- [x] Github Issues and Projects
 - [ ] Github Actions
 - [ ] Github pages
 - [ ] Github Wiki
